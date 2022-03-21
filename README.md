@@ -15,6 +15,11 @@ Skills: REACT / REDUX / REDUX-TOOLKIT / GIT / JS / HTML / CSS / BOOTSTRAP / ANT 
 
 ## _Social_
 
-[<img src='https://img.icons8.com/material-outlined/344/4a90e2/new-post.png' alt='gmail' height='40'>](mailto:fpsska1337@gmail.com)  [<img src='https://img.icons8.com/material-outlined/344/4a90e2/linkedin--v1.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fpsska-eugene-040129234//)  [<img src='https://img.icons8.com/material-outlined/344/4a90e2/vk-com.png' alt='vk' height='40'>](https://vk.com/fpsska)  [<img src='https://img.icons8.com/material-outlined/344/4a90e2/telegram-app.png' alt='telegram' height='40'>](https://t.me/Fpsska)  
+<div align="center">
+
+ [<img src='https://img.icons8.com/material-outlined/344/4a90e2/new-post.png' alt='gmail' height='40'>](mailto:fpsska1337@gmail.com)  [<img src='https://img.icons8.com/material-outlined/344/4a90e2/linkedin--v1.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fpsska-eugene-040129234//)  [<img src='https://img.icons8.com/material-outlined/344/4a90e2/vk-com.png' alt='vk' height='40'>](https://vk.com/fpsska)  [<img src='https://img.icons8.com/material-outlined/344/4a90e2/telegram-app.png' alt='telegram' height='40'>](https://t.me/Fpsska)  [<img src='https://img.icons8.com/material-outlined/344/4a90e2/discord-logo.png' alt='discord' height='40'>](Fpsska#1531)
+  
+</div>
+
 
 
