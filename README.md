@@ -10,8 +10,8 @@ Skills: REACT / REDUX / REDUX-TOOLKIT / GIT / JS / HTML / CSS / BOOTSTRAP / ANT 
 - 📫 How to reach me: [telegram](https://t.me/Fpsska) or [gmail](mailto:fpsska1337@gmail.com) 
 - 📝 My current summary: [LinkedIn](https://www.linkedin.com/in/eugene-egorov-040129234/)
 
-<!-- ## _Activities_
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpsska&show_icons=true&theme=tokyonight) -->
+## _Activities_
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpsska&show_icons=true&theme=tokyonight)
 
 ## _Social_
 
