@@ -3,7 +3,7 @@
 
 I'm Eugene from Saint-Petersburg, and I do projects on Frontend Development. I enjoy learning and working with frameworks like React with state manager Redux, as well as work with Redux-Toolkit. 
 
-Skills: REACT / REDUX / REDUX-TOOLKIT / GIT / JS / HTML / CSS / BOOTSTRAP / ANT DESIGN 
+Skills: REACT / REDUX / REDUX-TOOLKIT / TYPESCRIPT / GIT / JS / HTML / CSS / BOOTSTRAP / ANT DESIGN 
 
 - 🔭 I’m currently working on this page 
 - 💻 I’m currently learning TypeScript 
