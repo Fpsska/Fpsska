@@ -73,7 +73,7 @@ I'm Eugene from Saint-Petersburg, and I do projects on Frontend Development. I e
                     </td>
                     <td align="center" width="96">
                         <a href="https://www.mongodb.com/">
-                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="mongodb" />
+                            <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="mongodb" />
                         </a>
                         <br>mongodb
                     </td>
