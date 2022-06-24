@@ -6,27 +6,131 @@ I'm Eugene from Saint-Petersburg, and I do projects on Frontend Development. I e
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 
-<p align="left">
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
- <a href="https://gulpjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gulpjs/gulpjs-ar21.svg" alt="gulp" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
- <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://redux-toolkit.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/redux.svg" alt="redux" width="40" height="40"/> </a>   
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>  
- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
- <a href="https://www.heroku.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> </a>
- <a href="https://ant.design/" target="_blank"> <img src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" alt="antdesign" width="40" height="40"/> </a>
- <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
-</p>
-</p>
+<table>
+                <tr>
+                    <td align="center" width="96">
+                        <a href="https://www.w3.org/html/">
+                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="html5" />
+                        </a>
+                        <br>html5
+                    </td>
+                    <td align="center" width="96">
+                        <a href="https://www.w3schools.com/css/">
+                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="css3" />
+                        </a>
+                        <br>css3
+                    </td>
+                    <td align="center" width="96">
+                        <a href="https://sass-lang.com">
+                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="sass" />
+                        </a>
+                        <br>sass
+                    </td>
+                    <td align="center" width="96">
+                        <a href="https://gulpjs.com/">
+                            <img src="https://www.vectorlogo.zone/logos/gulpjs/gulpjs-ar21.svg" width="48" height="48" alt="gulp" />
+                        </a>
+                        <br>gulp
+                    </td>
+                    <td align="center" width="96">
+                        <a href="https://learn.javascript.ru/">
+                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="javascript" />
+                        </a>
+                        <br>javascript
+                    </td>
+                    <td align="center" width="96">
+                        <a href="https://nodejs.org">
+                            <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="48" height="48" alt="nodejs" />
+                        </a>
+                        <br>nodejs
+                    </td>
+                    <td align="center" width="96">
+                        <a href="https://reactjs.org/">
+                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="react" />
+                        </a>
+                        <br>react
+                    </td>
+                    <td align="center" width="96">
+                        <a href="https://redux-toolkit.js.org/">
+                            <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/redux.svg" width="48" height="48" alt="redux" />
+                        </a>
+                        <br>redux
+                    </td>
+                    <td align="center" width="96">
+                        <a href="https://www.typescriptlang.org/" >
+                            <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="48" height="48" alt="typescript" />
+                        </a>
+                        <br>typescript
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="96">
+                        <a href="https://firebase.google.com/" >
+                            <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="firebase" />
+                        </a>
+                        <br>firebase
+                    </td>
+                    <td align="center" width="96">
+                        <a href="https://www.mongodb.com/">
+                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="mongodb" />
+                        </a>
+                        <br>mongodb
+                    </td>
+                    <td align="center" width="96">
+                        <a href="https://www.heroku.com/">
+                            <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="48" height="48" alt="heroku" />
+                        </a>
+                        <br>heroku
+                    </td>
+                    <td align="center" width="96">
+                        <a href="https://git-scm.com/">
+                            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="git" />
+                        </a>
+                        <br>git
+                    </td>
+                    <td align="center" width="96">
+                        <a href="https://getbootstrap.com/">
+                            <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="48" height="48" alt="bootstrap" />
+                        </a>
+                        <br>bootstrap
+                    </td>
+                    <td align="center" width="96">
+                        <a href="https://ant.design/" >
+                            <img src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" width="48" height="48" alt="antDesign" />
+                        </a>
+                        <br>antDesign
+                    </td>
+                    <td align="center" width="96">
+                        <a href="https://swiperjs.com/" >
+                            <img src="https://cms-assets.tutsplus.com/uploads/users/780/posts/39427/image-upload/68747470733a2f2f6769746875622e7375726d6f6e2e6d652f696d616765732f636f6d6d6f6e2f7377697065722d6c6f676f2e737667.svg" width="48" height="48" alt="swiper" />
+                        </a>
+                        <br>swiper
+                    </td>
+                    <td align="center" width="96">
+                        <a href="https://react-spring.io/" >
+                            <img src="https://react-spring.io/spring-icon.png" width="48" height="48" alt="react-spring" />
+                        </a>
+                        <br>spring
+                    </td>
+                    <td align="center" width="96">
+                        <a href="https://react-hook-form.com/" >
+                            <img src="https://pbs.twimg.com/profile_images/1373527896472489987/YjVZynHb_400x400.jpg" width="48" height="48" alt="react-hook-form" />
+                        </a>
+                        <br>form
+                    </td>
+                </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
 
 ## _Activities_
 
