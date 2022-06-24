@@ -13,13 +13,13 @@ I'm Eugene from Saint-Petersburg, and I do projects on Frontend Development. I e
                         <a href="https://www.w3.org/html/">
                             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="html5" />
                         </a>
-                        <br>html5
+                        <br>html
                     </td>
                     <td align="center" width="96">
                         <a href="https://www.w3schools.com/css/">
                             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="css3" />
                         </a>
-                        <br>css3
+                        <br>css
                     </td>
                     <td align="center" width="96">
                         <a href="https://sass-lang.com">
@@ -29,7 +29,7 @@ I'm Eugene from Saint-Petersburg, and I do projects on Frontend Development. I e
                     </td>
                     <td align="center" width="96">
                         <a href="https://gulpjs.com/">
-                            <img src="https://www.vectorlogo.zone/logos/gulpjs/gulpjs-ar21.svg" width="48" height="48" alt="gulp" />
+                            <img src="https://raw.githubusercontent.com/gulpjs/artwork/master/community/logo-2021/community.png" width="48" height="48" alt="gulp" />
                         </a>
                         <br>gulp
                     </td>
