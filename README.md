@@ -22,6 +22,11 @@ I'm Eugene from Saint-Petersburg, and I do projects on Frontend Development. I e
                         <br>css
                     </td>
                     <td align="center" width="96">
+                        <a href="https://learn.javascript.ru/">
+                            <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="48" height="48" alt="javascript" />
+                        </a>
+                        <br>javascript
+                    <td align="center" width="96">
                         <a href="https://sass-lang.com">
                             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="sass" />
                         </a>
@@ -33,11 +38,6 @@ I'm Eugene from Saint-Petersburg, and I do projects on Frontend Development. I e
                         </a>
                         <br>gulp
                     </td>
-                    <td align="center" width="96">
-                        <a href="https://learn.javascript.ru/">
-                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="javascript" />
-                        </a>
-                        <br>javascript
                     </td>
                     <td align="center" width="96">
                         <a href="https://nodejs.org">
@@ -47,7 +47,7 @@ I'm Eugene from Saint-Petersburg, and I do projects on Frontend Development. I e
                     </td>
                     <td align="center" width="96">
                         <a href="https://reactjs.org/">
-                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="react" />
+                            <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="react" />
                         </a>
                         <br>react
                     </td>
@@ -121,16 +121,6 @@ I'm Eugene from Saint-Petersburg, and I do projects on Frontend Development. I e
                     </td>
                 </tr>
 </table>
-
-
-
-
-
-
-
-
-
-
 
 ## _Activities_
 
