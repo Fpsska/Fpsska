@@ -128,7 +128,7 @@ Dear guest, on this page you can see my currently working several of my projects
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpsska&show_icons=true&theme=tokyonight)
 
-<h2 align="left">About Me:</h2>
+## _About me:_
 
 - :computer: I'm currently working on this page
 - :hourglass_flowing_sand:  Exploring Redux-Toolkit & TypeScript
