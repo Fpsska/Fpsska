@@ -1,8 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Eugene from Saint-Petersburg, Russia. Last 2 years interest by developing in Frontend development. My current development stack is React + Redux-Toolkit + TypeScript. Also i work with any java-script/css libraries, data bases. 
-Now I am in looking for a job, company with the prospect of developing skills and career growth.
-Dear guest, on this page you can see my currently working several of my projects, look below 🦄
+I'm Eugene from Saint-Petersburg, Russia. Last 2 years interest by developing in Frontend development. My current development stack is React + Redux-Toolkit + TypeScript. Also i work with any javascript libraries, UI-frameworks, data bases, practice in unit/integration testing. Now I'm in looking for a job, company with the prospect of developing skills and career growth.
+
+🌀 Dear guest, on this page you can see my currently working several of my projects, look below 🌀
 
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
