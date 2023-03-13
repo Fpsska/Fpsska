@@ -121,6 +121,20 @@ I'm Eugene from Saint-Petersburg, Russia. Last 2 years interest by developing in
                         <br>form
                     </td>
                 </tr>
+                <tr>
+                      <td align="center" width="96">
+                        <a href="https://react-leaflet.js.org/" >
+                            <img src="https://www.vectorlogo.zone/logos/leafletjs/leafletjs-icon.svg" width="48" height="48" alt="react-leaflet" />
+                        </a>
+                        <br>leaflet
+                    </td>
+                        <td align="center" width="96">
+                        <a href="https://webpack.js.org/" >
+                            <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" width="48" height="48" alt="webpack" />
+                        </a>
+                        <br>webpack
+                    </td>
+                </tr>
 </table>
 
 ## _Activities_
