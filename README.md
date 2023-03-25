@@ -90,12 +90,6 @@ I'm Eugene from Saint-Petersburg, Russia. Last 2 years interest by developing in
                   <br>mongodb
               </td>
               <td align="center" width="96">
-                  <a href="https://www.heroku.com/">
-                      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="48" height="48" alt="heroku" />
-                  </a>
-                  <br>heroku
-              </td>
-              <td align="center" width="96">
                   <a href="https://git-scm.com/">
                       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="git" />
                   </a>
@@ -131,14 +125,14 @@ I'm Eugene from Saint-Petersburg, Russia. Last 2 years interest by developing in
                   </a>
                   <br>emailjs
               </td>
+              <td align="center" width="96">
+                <a href="https://react-hook-form.com/" >
+                    <img src="https://pbs.twimg.com/profile_images/1373527896472489987/YjVZynHb_400x400.jpg" width="48" height="48" alt="react-hook-form" />
+                </a>
+                <br>form
+            </td>
           </tr>
           <tr>
-              <td align="center" width="96">
-                  <a href="https://react-hook-form.com/" >
-                      <img src="https://pbs.twimg.com/profile_images/1373527896472489987/YjVZynHb_400x400.jpg" width="48" height="48" alt="react-hook-form" />
-                  </a>
-                  <br>form
-              </td>
               <td align="center" width="96">
                   <a href="https://react-leaflet.js.org/" >
                       <img src="https://www.vectorlogo.zone/logos/leafletjs/leafletjs-icon.svg" width="48" height="48" alt="react-leaflet" />
@@ -163,7 +157,7 @@ I'm Eugene from Saint-Petersburg, Russia. Last 2 years interest by developing in
                   </a>
                   <br>jest
               </td>
-          </tr>
+          </tr> 
 </table>
 
 ## _Activities_
