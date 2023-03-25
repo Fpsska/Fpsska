@@ -87,7 +87,7 @@ I'm Eugene from Saint-Petersburg, Russia. Last 2 years interest by developing in
                   <a href="https://www.mongodb.com/">
                       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="mongodb" />
                   </a>
-                  <br>mongodb
+                  <br>mongo
               </td>
               <td align="center" width="96">
                   <a href="https://git-scm.com/">
