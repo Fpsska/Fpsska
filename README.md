@@ -161,9 +161,16 @@ I'm Eugene from Saint-Petersburg, Russia. Last 2 years interest by developing in
 </table>
 
 ## _Activities_
+   
+<p align="center">
+          <a href="https://wakatime.com/@c6234f01-a2f3-43c2-91a8-c202275f76e4"><img src="https://wakatime.com/badge/user/c6234f01-a2f3-43c2-91a8-c202275f76e4.svg" alt="Total time coded since Mar 19 2022" /></a>
+</p>   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpsska&show_icons=true&theme=tokyonight)
-
+<div align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=fpsska&show_icons=true&theme=tokyonight" />
+</div> 
+     
+          
 ## _About me:_
 
 - :computer: I'm currently working on this page
