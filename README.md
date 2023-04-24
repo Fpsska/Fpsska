@@ -181,6 +181,7 @@ I'm Eugene from Saint-Petersburg, Russia. Last 2 years interest by developing in
 <h2 align="left">:heart: Let's get connected:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eugene-egorov-040129234/)](https://www.linkedin.com/in/eugene-egorov-040129234/)
+[![HH Badge](https://img.shields.io/badge/-hh-blue?style=flat-square&logo=HH&logoColor=white&link=https://spb.hh.ru/resume/3e7bb3c1ff0865f0cd0039ed1f62456e6a7032)](https://spb.hh.ru/resume/3e7bb3c1ff0865f0cd0039ed1f62456e6a7032)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:fpsska1337@gmail.com) 
 [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Fpsska)](https://t.me/Fpsska) 
 [![VK Badge](https://img.shields.io/badge/-vk-blue?style=flat-square&logo=VK&logoColor=white&link=https://vk.com/fpsska)](https://vk.com/fpsska)
