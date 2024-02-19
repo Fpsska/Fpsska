@@ -191,11 +191,3 @@ I'm Eugene from Saint-Petersburg, Russia. Last 2 years interest by developing in
 [![Gmail Badge](https://img.shields.io/badge/-gmail-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:fpsska1337@gmail.com) 
 [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Fpsska)](https://t.me/Fpsska) 
 [![VK Badge](https://img.shields.io/badge/-vk-blue?style=flat-square&logo=VK&logoColor=white&link=https://vk.com/fpsska)](https://vk.com/fpsska)
-
-
-<p align="center">Profile visitors</p>
-
-
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/fpsska/count.svg" />
-</p>
