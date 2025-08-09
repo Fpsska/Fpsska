@@ -1,8 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Eugene from Saint-Petersburg, Russia. Last 2 years interest by developing in Frontend development. My current development stack is React + Redux-Toolkit + TypeScript. Also i work with any javascript libraries, UI-frameworks, data bases, practice in unit/integration testing. Now I'm in looking for a job, company with the prospect of developing skills and career growth.
+I'm Eugene from Saint-Petersburg, Russia. Last 4 years interest by developing in Frontend development. My current development stack is React + Redux-Toolkit/MobX + TypeScript. Also i work with any javascript libraries, UI-frameworks, data bases, unit/integration testing. I'm currently woking, but considering job offers.
 
-🌀 Dear guest, on this page you can see my currently working several of my projects, look below 🌀
+🌀 Dear guest, on this page you can see several of my projects, look below 🌀
 
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
@@ -103,7 +103,7 @@ I'm Eugene from Saint-Petersburg, Russia. Last 2 years interest by developing in
               </td>
               <td align="center" width="96">
                   <a href="https://ant.design/" >
-                      <img src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" width="48" height="48" alt="antDesign" />
+                      <img src="https://images.seeklogo.com/logo-png/38/1/ant-design-logo-png_seeklogo-380495.png" width="48" height="48" alt="antDesign" />
                   </a>
                   <br>antDesign
               </td>
@@ -179,10 +179,9 @@ I'm Eugene from Saint-Petersburg, Russia. Last 2 years interest by developing in
           
 ## _About me:_
 
-- :computer: I'm currently working on this page
-- :hourglass_flowing_sand:  Exploring Redux-Toolkit & TypeScript
+- :computer: I'm sometimes working on this page
 - :rocket: Ready to collaborate for get new dev experience
-- :zap: 1.5+ year experience on react + redux development
+- :zap: 3.5+ year experience of javaScript development
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
