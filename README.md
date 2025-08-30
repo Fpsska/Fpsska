@@ -151,7 +151,7 @@ I'm Eugene from Saint-Petersburg, Russia. Last 4 years interest by developing in
                   <a href="https://ant.design/" >
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" width="48" height="48" alt="antDesign" />
                   </a>
-                  <br>antDesign
+                  <br>antdesign
               </td>
               <td align="center" width="96">
                   <a href="https://storybook.js.org/" >
