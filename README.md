@@ -1,11 +1,12 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Eugene from Saint-Petersburg, Russia. Last 4 years interest by developing in Frontend development. My current development stack is React + Redux-Toolkit/MobX + TypeScript. Also i work with any javascript libraries, UI-frameworks, data bases, unit/integration testing. I'm currently woking, but considering job offers.
+I'm Eugene from Saint-Petersburg, Russia. Last 5 years interest by Frontend development. Work with JavaScript, TypeScript, other js libs, UI-frameworks. 
+I'm currently woking, but considering job offers.
 
 🌀 Dear guest, on this page you can see several of my projects, look below 🌀
 
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<h2 align="left">Technologies and Tools I use :hammer_and_wrench:</h2>
 
 <table>
           <tr>
@@ -187,25 +188,14 @@ I'm Eugene from Saint-Petersburg, Russia. Last 4 years interest by developing in
           </tr> 
 </table>
 
-## _Activities_
-
-<p align="center">
-          <a href="https://wakatime.com/@c6234f01-a2f3-43c2-91a8-c202275f76e4"><img src="https://wakatime.com/badge/user/c6234f01-a2f3-43c2-91a8-c202275f76e4.svg" alt="Total time coded since Mar 19 2022" /></a>
-</p>   
-
-<div align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=fpsska&show_icons=true&theme=tokyonight" />
-</div> 
-
-
 ## _About me:_
 
 - :computer: I'm sometimes working on this page
 - :rocket: Ready to collaborate for get new dev experience
-- :zap: 3.5+ year experience of javaScript development
+- :zap: 4.5+ year experience of js development
 
-<h2 align="left">:heart: Let's get connected:</h2>
+<h2 align="left">Let's get connected 💌</h2>
 
 [![Gmail Badge](https://img.shields.io/badge/-gmail-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:fpsska1337@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Fpsska)](https://t.me/Fpsska)
-[![VK Badge](https://img.shields.io/badge/-vk-blue?style=flat-square&logo=VK&logoColor=white&link=https://vk.com/fpsska)](https://vk.com/fpsska)
+<a href="https://wakatime.com/@c6234f01-a2f3-43c2-91a8-c202275f76e4"><img src="https://wakatime.com/badge/user/c6234f01-a2f3-43c2-91a8-c202275f76e4.svg" alt="Total time coded since Mar 19 2022" /></a>
